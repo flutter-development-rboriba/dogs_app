@@ -1,0 +1,9 @@
+# INstall http server
+$ python -m pip install simple_http_server
+
+# Run http server
+$ python -m http.server
+
+# Docs used:
+- https://pypi.org/project/simple-http-server/
+- https://stackoverflow.com/questions/17351016/set-up-python-simplehttpserver-on-windows
